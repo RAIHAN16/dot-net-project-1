@@ -1,0 +1,58 @@
+*{margin: 0px; padding: 0px}
+body{
+    background-image: url("images/bg-login.jpg");
+}
+#header{
+	color: #3c3c3c;
+	width: 87.39%;
+	height: 80px;
+	float: right;
+	background: #00001a;
+	color: #e6e6ff;
+}
+#para{
+	font-family:arial;
+	font-size: 250%;
+	text-align: center;
+	padding-top: 14px;
+}
+#sideBar{
+	width: 12.6%;
+	height: 100%;
+	float: left;
+	float:top;
+	box-shadow: 0px 10px 12px gray;
+    background:#333;
+}
+#sideBarContents{
+	padding-top:80px;
+	width: 0px;
+	height:800px;
+	float: left;
+}
+#sideBarContents>li{
+    width: 170px;
+	height:100px;
+	float:left;
+	border-bottom: 1px solid gray;
+	border-top: 1px solid gray;
+	
+}
+li>a{
+	width: 170px;
+	height:70px;
+	display: block;
+	color: white;
+	padding-top:30px;
+	text-align: center;
+	font-family: cursive;
+	font-size:18px;
+	text-decoration: none;
+	float:top;	
+}
+li>a:hover,
+li>a:focus
+{
+	background: #9966ff;
+	color: #333;
+}

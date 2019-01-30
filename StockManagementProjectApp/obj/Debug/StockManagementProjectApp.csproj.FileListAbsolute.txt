@@ -1,0 +1,19 @@
+D:\BITM\Project\StockManagementProjectApp\StockManagementProjectApp\bin\StockManagementProjectApp.dll.config
+D:\BITM\Project\StockManagementProjectApp\StockManagementProjectApp\bin\StockManagementProjectApp.dll
+D:\BITM\Project\StockManagementProjectApp\StockManagementProjectApp\bin\StockManagementProjectApp.pdb
+D:\BITM\Project\StockManagementProjectApp\StockManagementProjectApp\obj\Debug\StockManagementProjectApp.csprojResolveAssemblyReference.cache
+D:\BITM\Project\StockManagementProjectApp\StockManagementProjectApp\obj\Debug\StockManagementProjectApp.dll
+D:\BITM\Project\StockManagementProjectApp\StockManagementProjectApp\obj\Debug\StockManagementProjectApp.pdb
+D:\BITM\Project Testing\StockManagementProjectApp\StockManagementProjectApp\bin\StockManagementProjectApp.dll.config
+D:\BITM\Project Testing\StockManagementProjectApp\StockManagementProjectApp\bin\StockManagementProjectApp.dll
+D:\BITM\Project Testing\StockManagementProjectApp\StockManagementProjectApp\bin\StockManagementProjectApp.pdb
+D:\BITM\Project Testing\StockManagementProjectApp\StockManagementProjectApp\obj\Debug\StockManagementProjectApp.csprojResolveAssemblyReference.cache
+D:\BITM\Project Testing\StockManagementProjectApp\StockManagementProjectApp\obj\Debug\StockManagementProjectApp.dll
+D:\BITM\Project Testing\StockManagementProjectApp\StockManagementProjectApp\obj\Debug\StockManagementProjectApp.pdb
+D:\BITM\Project Testing\StockManagementProjectApp\StockManagementProjectApp\bin\itextsharp.dll
+E:\BITMProject1\2018.11.27Project\2018.11.27Project\StockManagementProjectApp\StockManagementProjectApp\bin\StockManagementProjectApp.dll.config
+E:\BITMProject1\2018.11.27Project\2018.11.27Project\StockManagementProjectApp\StockManagementProjectApp\bin\StockManagementProjectApp.dll
+E:\BITMProject1\2018.11.27Project\2018.11.27Project\StockManagementProjectApp\StockManagementProjectApp\bin\StockManagementProjectApp.pdb
+E:\BITMProject1\2018.11.27Project\2018.11.27Project\StockManagementProjectApp\StockManagementProjectApp\obj\Debug\StockManagementProjectApp.csprojResolveAssemblyReference.cache
+E:\BITMProject1\2018.11.27Project\2018.11.27Project\StockManagementProjectApp\StockManagementProjectApp\obj\Debug\StockManagementProjectApp.dll
+E:\BITMProject1\2018.11.27Project\2018.11.27Project\StockManagementProjectApp\StockManagementProjectApp\obj\Debug\StockManagementProjectApp.pdb
